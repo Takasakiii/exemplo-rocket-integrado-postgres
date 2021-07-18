@@ -1,0 +1,5 @@
+[default]
+port = 2000
+
+[global.databases]
+postgres_db = { url = "postgres://postgres:root@localhost/example" }
